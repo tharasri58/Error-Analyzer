@@ -132,7 +132,8 @@ if st.button("Analyze Code"):
             st.error("⚠️ Error Detected")
             st.code(error_log)
 
-            st.subheader("Predicted Error Type:")
+            st.subheader
+            ("Predicted Error Type:")
             st.write(error_type)
 
             st.subheader("Suggested Fix:")
